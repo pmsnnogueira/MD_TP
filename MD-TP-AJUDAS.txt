@@ -1,0 +1,15 @@
+No mercado informático podemos encontrar diversos serviços que são incapazes de se adaptar
+aos seus clientes, dificultando a utilização de um serviço onde não se pode confiar 
+a organização de uma empresa. É possível observar em algumas empresas que são usadas
+diversas metodologias para gerirem os seus serviços, em vez de reduzirem ao minimo a utilização
+de inúmeros programas.
+	No trabalho a realizar pretendemos modelar uma resolução a esses problemas
+e desenvolver um serviço capaz de combater as necessidades de uma gestora de frotas.
+
+
+
+Gestor de Frotas
+	Descrição:
+		Um gestor de frotas procura o equilibrio de cada operação a ser efetuada pela 
+		frota de veiculos da empresa, tentando sempre minimizar os custos e calcular
+		as melhores trajetorias possiveis.
